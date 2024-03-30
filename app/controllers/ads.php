@@ -1,0 +1,1 @@
+ $data['rows'] = $ads->where(['user_id'=>$user_id]);
